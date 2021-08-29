@@ -1,0 +1,13 @@
+{
+  "name": "srce-rcon",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "tsc && node tests/test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.7.5"
+  }
+}
