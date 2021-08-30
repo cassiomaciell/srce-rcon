@@ -1,3 +1,5 @@
+# Simple Source Engine Server RCON Client
+
 ```JavaScript
 const SRCERcon = require("srce-rcon");
 
